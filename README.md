@@ -1,7 +1,6 @@
-
-### Hi 👋, Its Raihan Sikder
+### Hi there 👋, Its Raihan Sikder
 #### i am a competitive programmer from Bangaldesh
-![i am a competitive programmer from Bangaldesh](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
+![i am a competitive programmer from Bangaldesh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fart-twerks.com%2Fai-program-art-painting%2F&psig=AOvVaw2Ppc41lQv0OlL1vf-Mev3d&ust=1703492631839000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi39P_Sp4MDFQAAAAAdAAAAABAD)
 
 I am a student  from Computer science and engineering. I am a Passionate coder and algorithm enthusiast. Multiple-time winner in coding competitions. Proficient in C++, Python, and Java. Check out my solutions on Codeforces, LeetCode, and HackerRank. Let's connect and create something amazing together! 💻✨
 
