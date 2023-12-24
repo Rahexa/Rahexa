@@ -5,7 +5,7 @@
 I am a student  from Computer science and engineering. I am a Passionate coder and algorithm enthusiast. Multiple-time winner in coding competitions. Proficient in C++, Python, and Java. Check out my solutions on Codeforces, LeetCode, and HackerRank. Let's connect and create something amazing together! 💻✨
 
 
-
+#About Me
 Skills: C/ C++ / python / HTML / Java
 
 - 🔭 I’m currently working on Java,C++,C 
