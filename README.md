@@ -1,5 +1,5 @@
 ### Hi 👋, Its Raihan Sikder
-#### i am a competitive programmer from Bangaldesh
+#### I am a competitive programmer from Bangaldesh
 <img src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif" alt="Competitive Programmer Image" width="1920" style="height: auto; max-height: 400px;">
 
 <h1>About Me</h1>
