@@ -3,7 +3,7 @@
 <img src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif" alt="Competitive Programmer Image" width="1920" style="height: auto; max-height: 400px;">
 
 <h1>About Me</h1>
-I am a student  from Computer science and engineering. I am a Passionate coder and algorithm enthusiast. Multiple-time winner in coding competitions. Proficient in C++, Python, and Java. Check out my solutions on Codeforces, LeetCode, and HackerRank. Let's connect and create something amazing together! 💻✨
+I am a student of Premier University from Computer science and engineering. I am a Passionate coder and algorithm enthusiast. Multiple-time winner in coding competitions. Proficient in C++, Python, and Java. Check out my solutions on Codeforces, LeetCode, and HackerRank. Let's connect and create something amazing together! 💻✨
 
 
 Skills: C/ C++ / python / HTML / Java
