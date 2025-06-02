@@ -1,30 +1,79 @@
-### Hi 👋, Its Raihan Sikder
-#### I am a competitive programmer from Bangaldesh
-<img src="https://art-twerks.com/wp-content/uploads/2018/10/ai-head-android-robot-artist.gif" alt="Competitive Programmer Image" width="1920" style="height: auto; max-height: 400px;">
+<div align="center">
+  <h1>👋 Hi, I'm Raihan Sikder</h1>
+  <p>Competitive Programmer | CSE Student at Premier University | Passionate about Algorithms & Software Development</p>
+  <p>Building efficient solutions with <strong>C++</strong>, <strong>Python</strong>, and <strong>Java</strong>. Let's create impactful projects together! 🚀</p>
 
-<h1>About Me</h1>
-I am a student of Premier University from Computer science and engineering. I am a Passionate coder and algorithm enthusiast. Proficient in C++, Python, and Java. Check out my solutions on Codeforces, LeetCode, and HackerRank. Let's connect and create something amazing together! 💻✨
+  <a href="https://github.com/Rahexa"><img src="https://img.shields.io/github/followers/Rahexa?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/raihan-sikder-773492271/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Compete-orange?logo=codeforces"></a>
+</div>
 
+---
 
-Skills: C/ C++ / python / HTML / Java
+### 🌟 About Me
+I'm a Computer Science and Engineering student at Premier University, Bangladesh, with a passion for solving complex problems through code. I specialize in **competitive programming** and have honed my skills in **algorithms** and **data structures** on platforms like Codeforces, LeetCode, and HackerRank. I love collaborating on innovative projects and am always eager to learn new technologies.
 
-- 🔭 I’m currently working on Java,C++,C 
-- 🌱 I’m currently learning Python
-  
-<img src="https://camo.githubusercontent.com/6061b2651703caed92fd32800ee4e456585bacc2667a515781afac3cccae0d39/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f486166697a2d53616b69623f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/Rahexa?label=Followers&amp;style=social" style="max-width: 100%;">
+- 🔭 **Currently working on**: Optimizing algorithms in C++ and building projects in Python.
+- 🌱 **Learning**: Advanced Python, system design, and cloud technologies.
+- 💼 **Open to**: Software engineering internships and full-time opportunities.
+- 📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/raihan-sikder-773492271/) | [Email](mailto:your.email@example.com)
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rahexa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raihan-sikder-773492271/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/neo.0020)  
+### 🛠️ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Data%20Structures-Expert-2ECC71?logo=leetcode" alt="Data Structures">
+  <img src="https://img.shields.io/badge/Algorithms-Expert-3498DB?logo=codeforces" alt="Algorithms">
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rahexa)](https://github.com/ryo-ma/github-profile-trophy)
+### 🚀 Featured Projects
+- **[Algorithm Visualizer](https://github.com/Rahexa/algorithm-visualizer)**  
+  A Python-based tool to visualize sorting and graph algorithms with interactive UI.  
+  *Tech*: Python, Tkinter, Matplotlib | *Status*: In Progress
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahexa)](https://github.com/anuraghazra/github-readme-stats)
+- **[Competitive Programming Solutions](https://github.com/Rahexa/cp-solutions)**  
+  A collection of my solutions to problems on Codeforces, LeetCode, and HackerRank.  
+  *Tech*: C++, Python | *Status*: Actively Updated
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahexa&show_icons=true)  
+- **[Task Manager Web App](https://github.com/Rahexa/task-manager)**  
+  A full-stack web app for task management with user authentication.  
+  *Tech*: HTML, JavaScript, Node.js | *Status*: Completed
 
-![GitHub metrics](https://metrics.lecoq.io/Rahexa)  
+> Check out my [pinned repositories](https://github.com/Rahexa?tab=repositories) for more projects!
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rahexa)  
+---
 
+### 🏆 Competitive Programming
+- **Codeforces**: [YOUR_CODEFORCES_HANDLE](https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE) (Max Rating: XXXX)
+- **LeetCode**: [YOUR_LEETCODE_PROFILE](https://leetcode.com/YOUR_LEETCODE_PROFILE/) (Solved: XXX+ problems)
+- **HackerRank**: [YOUR_HACKERRANK_PROFILE](https://www.hackerrank.com/YOUR_HACKERRANK_PROFILE) (5★ in Problem Solving)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahexa&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahexa&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://streak-stats.demolab.com/?user=Rahexa&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 📬 Let's Connect!
+I'm excited to collaborate on innovative projects or discuss software engineering opportunities. Feel free to reach out!
+
+<p align="center">
+  <a href="https://github.com/Rahexa"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>
+  <a href="https://www.linkedin.com/in/raihan-sikder-773492271/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
+  <a href="https://www.facebook.com/neo.0020"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30"></a>
+</p>
+
+<div align="center">
+  <p>💡 <em>"Code is like poetry; it’s about expressing complex ideas simply."</em></p>
+</div>
