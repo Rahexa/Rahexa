@@ -41,9 +41,9 @@ I'm a Computer Science and Engineering student at Premier University, Bangladesh
 ---
 
 ### 🏆 Competitive Programming
-- **Codeforces**: [YOUR_CODEFORCES_HANDLE](https://codeforces.com/profile/Rahi_PUC) (Max Rating: XXXX)
-- **LeetCode**: [YOUR_LEETCODE_PROFILE](https://leetcode.com/YOUR_LEETCODE_PROFILE/) (Solved: XXX+ problems)
-- **HackerRank**: [YOUR_HACKERRANK_PROFILE](https://www.hackerrank.com/YOUR_HACKERRANK_PROFILE) (5★ in Problem Solving)
+- **Codeforces**: (https://codeforces.com/profile/Rahi_PUC) (Max Rating: XXXX)
+- **LeetCode**: (https://leetcode.com/YOUR_LEETCODE_PROFILE/) (Solved: XXX+ problems)
+- **HackerRank**: (https://www.hackerrank.com/YOUR_HACKERRANK_PROFILE) (5★ in Problem Solving)
 
 ---
 
